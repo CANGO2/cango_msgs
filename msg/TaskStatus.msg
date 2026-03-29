@@ -7,8 +7,5 @@ std_msgs/Header header
 
 bool auto_operation 
 
-string status # wait moving return
+string status # wait moving returning none
 
-bool use_sound
-bool use_llm
-bool use_vision

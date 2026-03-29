@@ -8,15 +8,3 @@ cango msgs
 | Type | Description |
 | --- | --- |
 |  |  |
-
-### Services
-
-| Type | Description |
-| --- | --- |
-|  |  |
-
-### Actions
-
-| Type | Description |
-| --- | --- |
-|  |  |

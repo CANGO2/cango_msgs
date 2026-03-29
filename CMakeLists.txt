@@ -15,6 +15,7 @@ find_package(builtin_interfaces REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Vision.msg"
+  "msg/Point.msg"
   "msg/Navigation.msg"
   "msg/SoundRequest.msg"
   "msg/LlmRequest.msg"
