@@ -4,6 +4,7 @@
 # RobotControl
 
 float32 linear_speed #m/s
+float32 side_speed #m/s
 float32 ang_speed #rad/s
 float32 robot_angle #rad (pos)
 
