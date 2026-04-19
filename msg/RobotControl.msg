@@ -3,12 +3,13 @@
 ########################################
 # RobotControl
 
+float32 mode # 0 : lever , 1 : joystick
 float32 linear_speed #m/s
 float32 side_speed #m/s
 float32 ang_speed #rad/s
 float32 robot_angle #rad (pos)
 
-bool rot_in_place
+bool robot_up # 1 down 0 up
 
 #forward + , backward -
 #right + , left -
