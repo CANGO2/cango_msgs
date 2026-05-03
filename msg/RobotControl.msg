@@ -9,7 +9,7 @@ float32 side_speed #m/s
 float32 ang_speed #rad/s
 float32 robot_angle #rad (pos)
 
-bool robot_up # 1 down 0 up
+bool robot_up # 1 up 0 down
 
 #forward + , backward -
 #right + , left -
