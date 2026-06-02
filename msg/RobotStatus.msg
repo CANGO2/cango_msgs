@@ -3,12 +3,8 @@
 ########################################
 # RobotStatus
 
-bool dead
-float32 battery
-
-float32 linear_speed
-float32 ang_speed 
-float32 robot_angle
-
-float32 hand_speed
-float32 hand_angle
+int32 dynamixel_angle_deg # deg
+int32 joystick_x
+int32 joystick_y
+int32 robstride_angle_deg
+int32 robstride_torque_nm
