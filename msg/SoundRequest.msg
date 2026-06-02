@@ -8,7 +8,7 @@ bool request
 int32 ordered_num
 string text
 string user
-string llm
+string llm_text
 
 # read only when the request is signed true
 
