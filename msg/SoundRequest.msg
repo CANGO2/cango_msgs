@@ -18,3 +18,5 @@ string llm_text
 # 2 : 목적지 부근입니다.
 # 3 : 목적지에 도착했습니다. @쪽에 %s가 있습니다.
 # 4 : read custom text in text.
+# 11 12 13 14 15 16
+# hall left top-mid-bottom / right top-mid-bottom 순서
